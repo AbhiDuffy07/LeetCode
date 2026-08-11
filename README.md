@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbhiDuffy07/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbhiDuffy07/LeetCode/tree/master/0078-subsets) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
