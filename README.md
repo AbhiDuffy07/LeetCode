@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AbhiDuffy07/LeetCode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AbhiDuffy07/LeetCode/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
