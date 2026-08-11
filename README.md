@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/AbhiDuffy07/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AbhiDuffy07/LeetCode/tree/master/0050-powx-n) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
