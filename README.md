@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbhiDuffy07/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbhiDuffy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
