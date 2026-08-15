@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AbhiDuffy07/LeetCode/tree/master/0228-summary-ranges) |
+| [0485-max-consecutive-ones](https://github.com/AbhiDuffy07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0494-target-sum) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
