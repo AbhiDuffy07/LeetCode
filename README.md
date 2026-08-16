@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AbhiDuffy07/LeetCode/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/AbhiDuffy07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/AbhiDuffy07/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0054-spiral-matrix) |
+| [0495-teemo-attacking](https://github.com/AbhiDuffy07/LeetCode/tree/master/0495-teemo-attacking) |
 ## Divide and Conquer
 |  |
 | ------- |
