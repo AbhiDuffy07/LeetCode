@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AbhiDuffy07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AbhiDuffy07/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AbhiDuffy07/LeetCode/tree/master/0204-count-primes) |
+| [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
 ## Recursion
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhiDuffy07/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
