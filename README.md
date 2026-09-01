@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/AbhiDuffy07/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/AbhiDuffy07/LeetCode/tree/master/0495-teemo-attacking) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/AbhiDuffy07/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/AbhiDuffy07/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
