@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AbhiDuffy07/LeetCode/tree/master/0228-summary-ranges) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AbhiDuffy07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/AbhiDuffy07/LeetCode/tree/master/0495-teemo-attacking) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AbhiDuffy07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AbhiDuffy07/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AbhiDuffy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Union-Find
 |  |
