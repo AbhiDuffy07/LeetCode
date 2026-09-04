@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AbhiDuffy07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/AbhiDuffy07/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0090-subsets-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AbhiDuffy07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AbhiDuffy07/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiDuffy07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhiDuffy07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AbhiDuffy07/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AbhiDuffy07/LeetCode/tree/master/0022-generate-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -234,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhiDuffy07/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AbhiDuffy07/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
