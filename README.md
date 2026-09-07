@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/AbhiDuffy07/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Union-Find
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/AbhiDuffy07/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AbhiDuffy07/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AbhiDuffy07/LeetCode/tree/master/0058-length-of-last-word) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Tree
 |  |
 | ------- |
