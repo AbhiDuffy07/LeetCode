@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/AbhiDuffy07/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 ## Quicksort
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbhiDuffy07/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AbhiDuffy07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/AbhiDuffy07/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhiDuffy07/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AbhiDuffy07/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AbhiDuffy07/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AbhiDuffy07/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AbhiDuffy07/LeetCode/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AbhiDuffy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
