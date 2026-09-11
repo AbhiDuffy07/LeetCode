@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AbhiDuffy07/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AbhiDuffy07/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/AbhiDuffy07/LeetCode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/AbhiDuffy07/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/AbhiDuffy07/LeetCode/tree/master/0204-count-primes) |
 | [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
 ## Recursion
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AbhiDuffy07/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AbhiDuffy07/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AbhiDuffy07/LeetCode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/AbhiDuffy07/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0541-reverse-string-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AbhiDuffy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
