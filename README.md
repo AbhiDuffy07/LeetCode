@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AbhiDuffy07/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Sorting
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AbhiDuffy07/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AbhiDuffy07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AbhiDuffy07/LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AbhiDuffy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
