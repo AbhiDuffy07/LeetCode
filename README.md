@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AbhiDuffy07/LeetCode/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/AbhiDuffy07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
@@ -238,10 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhiDuffy07/LeetCode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/AbhiDuffy07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AbhiDuffy07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AbhiDuffy07/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AbhiDuffy07/LeetCode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhiDuffy07/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/AbhiDuffy07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0541-reverse-string-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AbhiDuffy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
