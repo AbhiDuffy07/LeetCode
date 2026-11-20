@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/AbhiDuffy07/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AbhiDuffy07/LeetCode/tree/master/0724-find-pivot-index) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AbhiDuffy07/LeetCode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhiDuffy07/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhiDuffy07/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/AbhiDuffy07/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AbhiDuffy07/LeetCode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Counting Sort
