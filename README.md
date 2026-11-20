@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AbhiDuffy07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AbhiDuffy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
 | [1672-richest-customer-wealth](https://github.com/AbhiDuffy07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhiDuffy07/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Union-Find
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AbhiDuffy07/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Counting Sort
 |  |
