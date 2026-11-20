@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AbhiDuffy07/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/AbhiDuffy07/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/AbhiDuffy07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhiDuffy07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AbhiDuffy07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0494-target-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/AbhiDuffy07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/AbhiDuffy07/LeetCode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Counting Sort
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/AbhiDuffy07/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/AbhiDuffy07/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/AbhiDuffy07/LeetCode/tree/master/0177-nth-highest-salary) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/AbhiDuffy07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
