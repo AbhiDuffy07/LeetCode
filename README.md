@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhiDuffy07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/AbhiDuffy07/LeetCode/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/AbhiDuffy07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AbhiDuffy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/AbhiDuffy07/LeetCode/tree/master/0648-replace-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhiDuffy07/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/AbhiDuffy07/LeetCode/tree/master/0648-replace-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AbhiDuffy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbhiDuffy07/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AbhiDuffy07/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/AbhiDuffy07/LeetCode/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
