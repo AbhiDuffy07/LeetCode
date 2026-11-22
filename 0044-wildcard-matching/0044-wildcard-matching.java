@@ -1,23 +1,26 @@
 class Solution {
     public boolean isMatch(String s, String p) {
-        boolean[][] match=new boolean[s.length()+1][p.length()+1];
-        match[s.length()][p.length()]=true;
-        for(int i=p.length()-1;i>=0;i--){
-            if(p.charAt(i)!='*')
-                break;
-            else 
-                match[s.length()][i]=true;    
-        }  
-        for(int i=s.length()-1;i>=0;i--){
-            for(int j=p.length()-1;j>=0;j--){
-                if(s.charAt(i)==p.charAt(j)||p.charAt(j)=='?')
-                    match[i][j]=match[i+1][j+1];
-                else if(p.charAt(j)=='*')
-                    match[i][j]=match[i+1][j]||match[i][j+1];
-                else
-                    match[i][j]=false;        
+        int si = 0, pi = 0, match = 0, star = -1;
+        int sn = s.length(), pn = p.length();
+        while (si < sn) {
+            if (pi < pn && (p.charAt(pi) == '?' || p.charAt(pi) == s.charAt(si))) {
+                si++;
+                pi++;
+            } else if (pi < pn && p.charAt(pi) == '*') {
+                star = pi;
+                match = si;
+                pi++;
+            } else if (star != -1) {
+                pi = star + 1;
+                match++;
+                si = match;
+            } else {
+                return false;
             }
         }
-        return match[0][0];      
+        while (pi < pn && p.charAt(pi) == '*') {
+            pi++;
+        }
+        return pi == pn;
     }
 }
