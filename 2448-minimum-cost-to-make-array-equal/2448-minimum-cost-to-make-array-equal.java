@@ -1,26 +1,42 @@
 class Solution {
     public long minCost(int[] nums, int[] cost) {
-        long ans = 0;
-        Map<Integer,Integer> map = new HashMap<>();
-        int min = Integer.MAX_VALUE, max = 0;
-        for(int i=0; i<nums.length; i++){
-            map.put(nums[i], cost[i]+map.getOrDefault(nums[i], 0));
-            min = Math.min(min,nums[i]);
-            max = Math.max(max,nums[i]);
+        long min = Integer.MAX_VALUE, max = Integer.MIN_VALUE;
+
+        for (int num : nums) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
         }
-        long cmin = map.get(min);
-        long cmax = map.get(max);
-        while(min<max){
-            if(cmin<=cmax){
-                ans += cmin;
-                min++;
-                cmin += map.getOrDefault(min,0);
-            }else{
-                ans += cmax;
-                max--;
-                cmax += map.getOrDefault(max,0);
+
+        long answer = Long.MAX_VALUE;
+
+        while (min < max) {
+            long mid = (max + min) / 2;
+
+            long midCost = getCostSum(mid, nums, cost);
+            long nextMidCost = getCostSum(mid + 1, nums, cost);
+
+            answer = Math.min(midCost, nextMidCost);
+            
+            if (midCost > nextMidCost) {
+                min = mid + 1;
+            } else {
+                max = mid;
             }
         }
-        return ans;
+
+        return answer == Long.MAX_VALUE ? 0 : answer;
+    }
+
+    private long getCostSum(long required, int[] nums, int[] cost) {
+        long sum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            long num = nums[i];
+            long requiredIncOrDec = Math.abs(required - num);
+            
+            sum += ((long) (cost[i] * requiredIncOrDec));
+        }
+
+        return sum;
     }
 }
