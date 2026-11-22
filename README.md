@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
 | [1672-richest-customer-wealth](https://github.com/AbhiDuffy07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/AbhiDuffy07/LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/AbhiDuffy07/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/AbhiDuffy07/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0475-heaters](https://github.com/AbhiDuffy07/LeetCode/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/AbhiDuffy07/LeetCode/tree/master/0704-binary-search) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/AbhiDuffy07/LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AbhiDuffy07/LeetCode/tree/master/0389-find-the-difference) |
 | [0475-heaters](https://github.com/AbhiDuffy07/LeetCode/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/AbhiDuffy07/LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Quicksort
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AbhiDuffy07/LeetCode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/AbhiDuffy07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/AbhiDuffy07/LeetCode/tree/master/0561-array-partition) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/AbhiDuffy07/LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AbhiDuffy07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/AbhiDuffy07/LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Counting Sort
 |  |
 | ------- |
