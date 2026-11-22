@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbhiDuffy07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/AbhiDuffy07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AbhiDuffy07/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AbhiDuffy07/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiDuffy07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AbhiDuffy07/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AbhiDuffy07/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/AbhiDuffy07/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/AbhiDuffy07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/AbhiDuffy07/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AbhiDuffy07/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/AbhiDuffy07/LeetCode/tree/master/0204-count-primes) |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/AbhiDuffy07/LeetCode/tree/master/0648-replace-words) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AbhiDuffy07/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
