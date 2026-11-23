@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/AbhiDuffy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/AbhiDuffy07/LeetCode/tree/master/1037-valid-boomerang) |
+| [1480-running-sum-of-1d-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/AbhiDuffy07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AbhiDuffy07/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AbhiDuffy07/LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AbhiDuffy07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhiDuffy07/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AbhiDuffy07/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1480-running-sum-of-1d-array](https://github.com/AbhiDuffy07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AbhiDuffy07/LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Counting Sort
 |  |
